@@ -1,0 +1,42 @@
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.deps.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\refint\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\ref\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.deps.json
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\refint\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\ref\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.CopyComplete
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.deps.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\bin\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.csproj.CopyComplete
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\refint\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api.MessageContracts\obj\Debug\net6.0\ref\KitchenBook.Api.MessageContracts.dll

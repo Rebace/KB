@@ -1,0 +1,25 @@
+﻿<div class="header">
+    <div class="header-position">
+        <div class="header__left-part">
+            <div class="header__logo">
+                <img src="assets/img/Recipes.svg" alt="Logo">
+            </div>
+            <div class="header__menu">
+                <div>Главная</div>
+                <div>Рецепты</div>
+                <div>Избранное</div>
+            </div>
+        </div>
+        <div class="header__right-part">
+            <div class="header__img-style"><img src="assets/img/Avatar.svg" alt="Avatar"></div>
+            <div class="header__text">Привет, user</div>
+            <div><img class="header__exit" src="assets/img/Exit.svg" alt="Exit"></div>
+        </div>
+    </div>
+</div>
+<div class="recipes">
+  <tl-recipe
+  *ngFor="let recipe of recipes"
+  [recipe]="recipe"
+  ></tl-recipe>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\bin\Debug\net6.0\KitchenBook.Site.deps.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\bin\Debug\net6.0\KitchenBook.Site.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\bin\Debug\net6.0\KitchenBook.Site.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\KitchenBook.Site.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\KitchenBook.Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\KitchenBook.Site.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\KitchenBook.Site.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\KitchenBook.Site.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\KitchenBook.Site.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\refint\KitchenBook.Site.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\KitchenBook.Site.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Site\obj\Debug\net6.0\ref\KitchenBook.Site.dll

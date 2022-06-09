@@ -1,0 +1,207 @@
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.deps.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Infrastructure.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Infrastructure.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.CopyComplete
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\refint\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.pdb
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\ref\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Debug\net6.0\KitchenBook.Domain.deps.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.exe
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.runtimeconfig.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\scopedcss\bundle\KitchenBook.Api.styles.css
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.genruntimeconfig.cache
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Debug\net6.0\KitchenBook.Domain.deps.json
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.exe
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.deps.json
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.runtimeconfig.json
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Infrastructure.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Infrastructure.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\scopedcss\bundle\KitchenBook.Api.styles.css
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.CopyComplete
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\refint\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.pdb
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.genruntimeconfig.cache
+C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Api\obj\Debug\net6.0\ref\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Debug\net6.0\KitchenBook.Domain.deps.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.exe
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.deps.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.runtimeconfig.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Azure.OperationalInsights.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Infrastructure.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Api.MessageContracts.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Infrastructure.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\bin\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\scopedcss\bundle\KitchenBook.Api.styles.css
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.csproj.CopyComplete
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\refint\KitchenBook.Api.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\KitchenBook.Api.genruntimeconfig.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Api\obj\Debug\net6.0\ref\KitchenBook.Api.dll

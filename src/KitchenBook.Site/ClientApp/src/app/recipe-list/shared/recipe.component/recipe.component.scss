@@ -1,0 +1,158 @@
+﻿.recipe {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 75px 24px 24px 0;
+    box-shadow: 0 16px 72px rgba(34, 39, 47, 0.05);
+    background: #FFFFFF;
+    margin-bottom: 40px;
+
+    img {
+        height: 430px;
+    }
+
+    .recipe__body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-grow: 1;
+        margin-left: 53px;
+        margin-bottom: 58px;
+
+        .recipe__header {
+            display: flex;
+            justify-content: space-between;
+            margin-right: 30px;
+            margin-top: 36px;
+
+            .recipe__statistics {
+                display: flex;
+                flex-direction: row;
+
+                .recipe__starts {
+                    border: 1px solid #FDB100;
+                    border-radius: 16px;
+                    padding: 10px 0;
+                    width: 105px;
+                    font-family: 'Montserrat', serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 18px;
+                    line-height: 28px;
+                    color: #FDB100;
+                    margin-left: 15px;
+
+                    img {
+                        width: 20px;
+                        height: 19px;
+                        position: relative;
+                        top: 4px;
+                        margin-left: 26px;
+                        margin-right: 16px;
+                    }
+                }
+            }
+        }
+
+        .recipe__main {
+            text-align: left;
+            margin-bottom: 15px;
+
+            .recipe__title {
+                font-family: 'Montserrat', serif;
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 30px;
+                text-transform: capitalize;
+                color: #25292D;
+                margin-bottom: 16px;
+                margin-top: 2px;
+            }
+
+            .recipe__description {
+                font-family: 'Montserrat', serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 30px;
+                color: #4A525A;
+                width: 100%;
+                max-width: 540px;
+            }
+        }
+
+        .recipe__footer {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            max-width: 458px;
+
+            .recipe__text {
+                font-family: 'Montserrat', serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 28px;
+                color: #25292D;
+                opacity: 0.5;
+                margin: 0;
+            }
+
+            .recipe__cook-time {
+                font-family: 'Montserrat', serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 28px;
+                color: #25292D;
+                position: relative;
+                top: -4px;
+            }
+
+            .recipe__portion-count {
+                font-family: 'Montserrat', serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 28px;
+                color: #25292D;
+                position: relative;
+                top: -4px;
+            }
+
+            .recipe__time {
+                display: flex;
+                flex-direction: row;
+
+                img {
+                    width: 48px;
+                    height: 56px;
+                    margin-right: 20px;
+                }
+            }
+
+            .recipe__portion {
+                display: flex;
+                flex-direction: row;
+
+                img {
+                    width: 58px;
+                    height: 37px;
+                    margin-right: 15px;
+                    margin-top: 11px;
+                }
+            }
+
+            .recipe__footer-position {
+                display: flex;
+                flex-direction: column;
+
+                span {
+                    margin-left: 4px;
+                }
+            }
+        }
+    }
+}

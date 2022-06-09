@@ -1,0 +1,40 @@
+﻿<div class="recipe">
+    <img src="assets/img/Rectangle8.png" alt="Recipe">
+    <div class="recipe__body">
+        <div class="recipe__header">
+            <div></div>
+            <div class="recipe__statistics">
+                <div class="recipe__starts">
+                    <img src="assets/img/Star.svg" alt="Star">{{recipe.stars}}
+                </div>
+                <div class="recipe__likes recipe__starts">
+                    <img src="assets/img/Like.svg" alt="Like">{{recipe.likes}}
+                </div>
+            </div>
+        </div>
+        <div class="recipe__main">
+            <div class="recipe__title">
+                {{recipe.title}}
+            </div>
+            <div class="recipe__description">
+                {{recipe.description}}
+            </div>
+        </div>
+        <div class="recipe__footer">
+            <div class="recipe__time">
+                <img src="assets/img/Timer.svg" alt="Timer">
+                <div class="recipe__footer-position">
+                    <p class="recipe__text">Время приготовления:</p>
+                    <p class="recipe__cook-time">{{recipe.cookingTime}} <span>мин</span></p>
+                </div>
+            </div>
+            <div class="recipe__portion">
+                <img src="assets/img/Humans.svg" alt="Timer">
+                <div class="recipe__footer-position">
+                    <p class="recipe__text">Рецепт на:</p>
+                    <p class="recipe__portion-count">{{recipe.portions}} персон</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
