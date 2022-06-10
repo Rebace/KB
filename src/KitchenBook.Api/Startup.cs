@@ -1,4 +1,4 @@
-﻿using KitchenBook.Domain.UserModel;
+﻿using KitchenBook.Domain;
 using KitchenBook.Infrastructure;
 using KitchenBook.Infrastructure.Data.RecipeModel;
 using KitchenBook.Infrastructure.Data.UserModel;

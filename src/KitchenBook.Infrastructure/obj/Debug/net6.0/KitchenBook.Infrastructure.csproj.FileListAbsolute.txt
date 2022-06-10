@@ -49,3 +49,20 @@ C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Infrastructure
 C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.pdb
 C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.genruntimeconfig.cache
 C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Infrastructure\obj\Debug\net6.0\ref\KitchenBook.Infrastructure.dll
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\bin\Debug\net6.0\KitchenBook.Infrastructure.deps.json
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\bin\Debug\net6.0\KitchenBook.Infrastructure.runtimeconfig.json
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\bin\Debug\net6.0\KitchenBook.Infrastructure.dll
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\bin\Debug\net6.0\KitchenBook.Infrastructure.pdb
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\bin\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\bin\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.csproj.CopyComplete
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.dll
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\refint\KitchenBook.Infrastructure.dll
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.pdb
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\KitchenBook.Infrastructure.genruntimeconfig.cache
+C:\Users\user\Desktop\poject\src\KitchenBook.Infrastructure\obj\Debug\net6.0\ref\KitchenBook.Infrastructure.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Site\\KitchenBook.Site.csproj": {}
+    "C:\\Users\\user\\Desktop\\poject\\src\\KitchenBook.Site\\KitchenBook.Site.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Site\\KitchenBook.Site.csproj": {
+    "C:\\Users\\user\\Desktop\\poject\\src\\KitchenBook.Site\\KitchenBook.Site.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Site\\KitchenBook.Site.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\poject\\src\\KitchenBook.Site\\KitchenBook.Site.csproj",
         "projectName": "KitchenBook.Site",
-        "projectPath": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Site\\KitchenBook.Site.csproj",
-        "packagesPath": "C:\\Users\\Rebace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Site\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\poject\\src\\KitchenBook.Site\\KitchenBook.Site.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\poject\\src\\KitchenBook.Site\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rebace\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

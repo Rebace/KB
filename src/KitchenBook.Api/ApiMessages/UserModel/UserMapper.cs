@@ -1,5 +1,5 @@
 ﻿using KitchenBook.Api.MessageContracts.UserModel;
-using KitchenBook.Domain.UserModel;
+using KitchenBook.Domain;
 
 namespace KitchenBook.Api.ApiMessages.UserModel;
 

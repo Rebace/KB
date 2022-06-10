@@ -1,4 +1,4 @@
-﻿namespace KitchenBook.Domain.UserModel;
+﻿namespace KitchenBook.Domain;
 
 public interface IUserRepository
 {

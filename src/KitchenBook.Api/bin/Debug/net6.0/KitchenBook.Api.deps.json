@@ -9,6 +9,7 @@
       "KitchenBook.Api/1.0.0": {
         "dependencies": {
           "KitchenBook.Api.MessageContracts": "1.0.0",
+          "KitchenBook.Domain": "1.0.0",
           "KitchenBook.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.OpenApi": "1.3.1",

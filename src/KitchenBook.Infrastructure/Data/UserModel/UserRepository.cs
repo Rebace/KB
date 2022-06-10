@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
-using KitchenBook.Domain.UserModel;
+using KitchenBook.Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace KitchenBook.Infrastructure.Data.UserModel;

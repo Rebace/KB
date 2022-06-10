@@ -1,4 +1,4 @@
-﻿using KitchenBook.Domain.UserModel;
+﻿using KitchenBook.Domain;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Azure.OperationalInsights.Models;
 using Newtonsoft.Json;

@@ -1,5 +1,4 @@
 ﻿using KitchenBook.Domain;
-using KitchenBook.Domain.UserModel;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -9,7 +8,7 @@ namespace KitchenBook.Infrastructure.Configuration
     {
         public void Configure(EntityTypeBuilder<User> builder)
         {
-            builder.Property(x => x.Id).ValueGeneratedOnAdd();
+            builder.Property(x => x.Id).ValueGeneratedOnAdd();// primary kay
             builder.Property(x => x.Name).HasMaxLength(255);
             builder.Property(x => x.Token);
             builder.Property(x => x.Login).HasMaxLength(255).IsRequired();

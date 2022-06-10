@@ -1,7 +1,7 @@
 ﻿using KitchenBook.Api.ApiMessages.UserModel;
 using KitchenBook.Api.MessageContracts;
 using KitchenBook.Api.MessageContracts.UserModel;
-using KitchenBook.Domain.UserModel;
+using KitchenBook.Domain;
 using KitchenBook.Infrastructure.Data.UserModel;
 using KitchenBook.Infrastructure.UoF;
 using Microsoft.AspNetCore.Mvc;
@@ -47,10 +47,9 @@ public class UserController : ControllerBase
     public async Task<IActionResult> Register(LoginDto loiginDto)
     {
         string token = Guid.NewGuid().ToString();
-
+        // проверка на уже существующего
         HttpContext.Response.Cookies.Append("Token", token);
 
-        var createdUser =
             await _userRepository.Add(new User(
                 loiginDto.Name,
                 loiginDto.Login,
@@ -62,18 +61,11 @@ public class UserController : ControllerBase
         return Ok();
     }
 
-    [HttpGet]
-    [Route("{userId}")]
-    public async Task<IActionResult> GetById(int userId)
-    {
-        User user = await _userRepository.GetById(userId);
-        return Ok(user.Map());
-    }
-
     [HttpPost]
     [Route("update")]
     public IActionResult Update([FromBody] UserDto userDto)
     {
+        // апдейт по логину
         _userRepository.Update(new User(
             userDto.Name,
             userDto.Login,

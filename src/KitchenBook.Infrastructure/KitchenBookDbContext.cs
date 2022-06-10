@@ -1,7 +1,6 @@
 ﻿using KitchenBook.Infrastructure.Configuration;
 using Microsoft.EntityFrameworkCore;
 using KitchenBook.Domain;
-using KitchenBook.Domain.UserModel;
 
 namespace KitchenBook.Infrastructure
 {
