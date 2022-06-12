@@ -7,7 +7,7 @@ public class User
     public string Login { get; private set; }
     public string Token { get; set; }
     public string Password { get; private set; }
-    public string Description { get; private set; }
+    public string? Description { get; private set; }
 
     // Workaround for EF
     protected User()

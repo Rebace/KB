@@ -6,9 +6,9 @@ namespace KitchenBook.Infrastructure.Data.RecipeModel
 {
     public class RecipeRepository : IRecipeRepository
     {
-        private readonly RecipeDbContext _dbContext;
+        private readonly KitchenBookDbContext _dbContext;
 
-        public RecipeRepository(RecipeDbContext dbContext)
+        public RecipeRepository(KitchenBookDbContext dbContext)
         {
             _dbContext = dbContext;
         }

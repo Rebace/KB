@@ -1,5 +1,4 @@
 ﻿using KitchenBook.Api.ApiMessages;
-using KitchenBook.Api.MessageContracts;
 using KitchenBook.Api.MessageContracts.Mappers;
 using KitchenBook.Domain;
 using KitchenBook.Infrastructure.Repository;

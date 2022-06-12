@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5b2984e-c87f-4736-98dc-2f26ddc77c59" name="Changes" comment="" />
+    <list default="true" id="d5b2984e-c87f-4736-98dc-2f26ddc77c59" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/KitchenBook.Api/KitchenBook.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitchenBook.Api/KitchenBook.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/recipe-list/recipe-list-page/recipe-list-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/recipe-list/recipe-list-page/recipe-list-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/recipe-list/recipe-list-page/recipe-list-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitchenBook.Site/ClientApp/src/app/recipe-list/recipe-list-page/recipe-list-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KitchenBook.Site/KitchenBook.Site.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/KitchenBook.Site/KitchenBook.Site.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29M32HiKiUeFggftVtjdd2cBWGU" />
   <component name="ProjectViewState">
@@ -16,22 +27,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b2984e-c87f-4736-98dc-2f26ddc77c59" name="Changes" comment="" />
       <created>1652908922804</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652908922804</updated>
       <workItem from="1652908929797" duration="12000" />
+      <workItem from="1655034058527" duration="9000" />
+      <workItem from="1655034192932" duration="777000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

@@ -1,20 +1,23 @@
 ﻿using KitchenBook.Infrastructure.Configuration;
 using Microsoft.EntityFrameworkCore;
 using KitchenBook.Domain;
+using KitchenBook.Domain.UserModel;
 
 namespace KitchenBook.Infrastructure
 {
-    public class RecipeDbContext : DbContext
+    public class KitchenBookDbContext : DbContext
     {
         public DbSet<Recipe> Recipe { get; set; }
+        public DbSet<User> User { get; set; }
 
-        public RecipeDbContext(DbContextOptions options) : base(options)
+        public KitchenBookDbContext(DbContextOptions options) : base(options)
         {
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new RecipeConfiguration());
+            modelBuilder.ApplyConfiguration(new UserConfiguration());
         }
     }
 }

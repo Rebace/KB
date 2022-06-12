@@ -8,7 +8,7 @@ namespace KitchenBook.Infrastructure.Configuration
     {
         public void Configure(EntityTypeBuilder<Recipe> builder)
         {
-            builder.Property(x => x.Id).ValueGeneratedOnAdd();
+            builder.HasKey(x => x.Id);
             builder.Property(x => x.Title).HasMaxLength(255).IsRequired();
             builder.Property(x => x.Description).IsRequired();
             builder.Property(x => x.CookingTime).HasColumnType("int");

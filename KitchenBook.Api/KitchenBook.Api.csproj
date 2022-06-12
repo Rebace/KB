@@ -16,6 +16,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\KitchenBook.Api.MessageContracts\KitchenBook.Api.MessageContracts.csproj" />
+        <ProjectReference Include="..\KitchenBook.Domain\KitchenBook.Domain.csproj" />
         <ProjectReference Include="..\KitchenBook.Infrastructure\KitchenBook.Infrastructure.csproj" />
     </ItemGroup>
 

@@ -1,12 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace KitchenBook.Domain.AuthenticateModel;
+namespace KitchenBook.Api.MessageContracts;
 
-public class AuthenticateRequest
+public class LoginDto
 {
     [Required]
     public string Login { get; set; }
 
     [Required]
     public string Password { get; set; }
+    public string Name { get; set; }
 }

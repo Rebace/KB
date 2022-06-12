@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Deiecsp+jx6PihCvLjZ0B50DN/9PFs85u7GxmA84MywptFQ31TXuL5i2mQ/m8bXr+x2GVxuxODsqjmCjuNocvw==",
+  "dgSpecHash": "nk+u69dKx5UiBQeLRvHk8U5jfJubNb9idgXs0cVOy7yvNMiSZtDmoYsJoid9feQZlY1RF1bxRxWPC0cXJiFYVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Infrastructure\\KitchenBook.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Rebace\\Desktop\\project\\src\\KitchenBook.Infrastructure\\KitchenBook.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rebace\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rebace\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",

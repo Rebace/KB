@@ -7024,11 +7024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Infrastructure\\KitchenBook.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Rebace\\Desktop\\project\\src\\KitchenBook.Infrastructure\\KitchenBook.Infrastructure.csproj",
       "projectName": "KitchenBook.Infrastructure",
-      "projectPath": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Infrastructure\\KitchenBook.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Rebace\\Desktop\\project\\src\\KitchenBook.Infrastructure\\KitchenBook.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rebace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Rebace\\Desktop\\project\\src\\KitchenBook.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7049,8 +7049,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Domain\\KitchenBook.Domain.csproj": {
-              "projectPath": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Domain\\KitchenBook.Domain.csproj"
+            "C:\\Users\\Rebace\\Desktop\\project\\src\\KitchenBook.Domain\\KitchenBook.Domain.csproj": {
+              "projectPath": "C:\\Users\\Rebace\\Desktop\\project\\src\\KitchenBook.Domain\\KitchenBook.Domain.csproj"
             }
           }
         }

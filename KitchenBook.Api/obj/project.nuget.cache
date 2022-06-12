@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7sYGuCx+wIebNcZuLqLXGHKrj0o8IokyIZjAyvytna3lURapDnP4jN/1i/LLYmkrtb3nkOCSomIr09e4Vfb3pA==",
+  "dgSpecHash": "y73fP961y1rXBu8R0hwor3gnOedwS0av9N44xFG1xkhvMQPXU9NtQlFJKXRcXy1/WkI0S4x8ckVTEGZb1JuEfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rebace\\Desktop\\project — копия\\src\\KitchenBook.Api\\KitchenBook.Api.csproj",
+  "projectFilePath": "C:\\Users\\Rebace\\Desktop\\project\\src\\KitchenBook.Api\\KitchenBook.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rebace\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Rebace\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -25,3 +25,15 @@ C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Domain\obj\Debug\
 C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Domain\obj\Debug\net6.0\refint\KitchenBook.Domain.dll
 C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.pdb
 C:\Users\Rebace\Desktop\project — копия\src\KitchenBook.Domain\obj\Debug\net6.0\ref\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\bin\Debug\net6.0\KitchenBook.Domain.deps.json
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\bin\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\bin\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.csproj.AssemblyReference.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.AssemblyInfoInputs.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.AssemblyInfo.cs
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\refint\KitchenBook.Domain.dll
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\KitchenBook.Domain.pdb
+C:\Users\Rebace\Desktop\Новая папка (4)\src\KitchenBook.Domain\obj\Debug\net6.0\ref\KitchenBook.Domain.dll

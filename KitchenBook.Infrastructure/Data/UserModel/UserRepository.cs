@@ -1,36 +1,17 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
-using KitchenBook.Domain.AuthenticateModel;
 using KitchenBook.Domain.UserModel;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 
 namespace KitchenBook.Infrastructure.Data.UserModel;
 
 public class UserRepository : IUserRepository
 {
-    private readonly UserDbContext _dbContext;
-    private readonly IConfiguration _configuration;
+    private readonly KitchenBookDbContext _dbContext;
 
-    public UserRepository(UserDbContext dbContext, IConfiguration configuration)
+    public UserRepository(KitchenBookDbContext dbContext)
     {
         _dbContext = dbContext;
-        _configuration = configuration;
-    }
-
-    public async Task<User> Authenticate(AuthenticateRequest model)
-    {
-        var user = await _dbContext.User.SingleOrDefaultAsync(x =>
-            x.Login == model.Login && Hashing.ToSHA256(x.Password) == model.Password);
-
-        if (user == null)
-        {
-            return null;
-        }
-
-        var token = Guid.NewGuid().ToString();
-
-        return new User(user.Name, user.Login, user.Password, user.Description, token);
     }
 
     public async Task<User> GetById(int id)
@@ -43,7 +24,7 @@ public class UserRepository : IUserRepository
         return await _dbContext.User.SingleOrDefaultAsync(x => x.Login == login);
     }
 
-    public async Task<User> Register(User user)
+    public async Task<User> Add(User user)
     {
         var entity = await _dbContext.User.AddAsync(user);
         return entity.Entity;
@@ -65,7 +46,7 @@ public static class Hashing
         var sb = new StringBuilder();
         for (int i = 0; i < bytes.Length; i++)
         {
-            sb.Append(bytes[i].ToString("SecredHashing123"));
+            sb.Append(bytes[i].ToString("x2"));
         }
 
         return sb.ToString();

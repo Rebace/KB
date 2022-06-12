@@ -8,10 +8,9 @@ namespace KitchenBook.Infrastructure
 {
     public class DbInitializer
     {
-        public static void Initialize(RecipeDbContext recipeDbContext, UserDbContext userDbContext)
+        public static void Initialize(KitchenBookDbContext kitchenBookDbContext)
         {
-            recipeDbContext.Database.EnsureCreated();
-            userDbContext.Database.EnsureCreated();
+            kitchenBookDbContext.Database.EnsureCreated();
         }
     }
 }

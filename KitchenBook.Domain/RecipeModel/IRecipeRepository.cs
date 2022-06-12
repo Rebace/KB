@@ -6,8 +6,8 @@ namespace KitchenBook.Infrastructure.Repository
     {
         Task<List<Recipe>> GetRecipeList();
         Task<Recipe> GetById(int id);
-        Task<Recipe> Create(Recipe todo);
-        void Delete(Recipe todo);
-        void Update(Recipe todo);
+        Task<Recipe> Create(Recipe recipe);
+        void Delete(Recipe recipe);
+        void Update(Recipe recipe);
     }
 }

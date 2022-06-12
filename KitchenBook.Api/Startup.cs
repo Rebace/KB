@@ -21,10 +21,8 @@ namespace KitchenBook.Api
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<RecipeDbContext>(x =>
-                x.UseSqlServer(Configuration.GetConnectionString("RecipeConnection")));
-            services.AddDbContext<UserDbContext>(x =>
-                x.UseSqlServer(Configuration.GetConnectionString("UserConnection")));
+            services.AddDbContext<KitchenBookDbContext>(x =>
+                x.UseSqlServer(Configuration.GetConnectionString("KitchenBookConnection")));
             services.AddScoped<IRecipeRepository, RecipeRepository>();
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
